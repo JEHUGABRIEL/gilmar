@@ -1,0 +1,294 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "about": "La Résidence",
+    "apartments": "Appartements",
+    "restaurant": "Restaurant",
+    "gym": "Salle de sport",
+    "contact": "Contact",
+    "book": "Réserver",
+    "vehicles": "Véhicules"
+  },
+  "hero": {
+    "slides": [
+      {
+        "badge": "Bangui · Kassaï · 7e arrondissement",
+        "title": "Gilmar",
+        "titleAccent": "Résidence",
+        "subtitle": "Appartements meublés haut standing, pensés pour le confort absolu et le raffinement."
+      },
+      {
+        "badge": "Restaurant & Bar",
+        "title": "Une table",
+        "titleAccent": "chaleureuse",
+        "subtitle": "Bois chaud, lustres en cristal et terrasse ombragée, au cœur de la résidence."
+      },
+      {
+        "badge": "Offre spéciale",
+        "title": "Petit-déjeuner",
+        "titleAccent": "offert",
+        "subtitle": "Pour chaque appartement réservé, Gilmar vous offre votre premier petit-déjeuner."
+      },
+      {
+        "badge": "Sécurité 24h/24",
+        "title": "Votre havre",
+        "titleAccent": "de paix",
+        "subtitle": "Une résidence fermée et gardée, avec parking, face à la paroisse Sainte Anne."
+      }
+    ],
+    "ctaDiscover": "Découvrir les appartements",
+    "arrival": "Arrivée",
+    "departure": "Départ",
+    "guests": "Personnes",
+    "check": "Vérifier la disponibilité"
+  },
+  "about": {
+    "badge": "Bienvenue",
+    "title": "Un véritable havre de paix au cœur de Bangui",
+    "p1": "Bienvenue à la <strong>Gilmar Résidence</strong>, une résidence meublée haut standing pensée pour celles et ceux qui recherchent le confort absolu et le raffinement à Bangui.",
+    "p2": "Nos appartements entièrement équipés vous accueillent pour un séjour court ou long : chambre climatisée, salon, coin repas et kitchenette, dans un cadre calme et sécurisé.",
+    "p3": "Sur place, profitez de notre restaurant-bar, de sa terrasse et de notre salle de sport. Une adresse pensée pour que vous ne manquiez de rien.",
+    "addressTitle": "Notre adresse",
+    "addressLine": "Camp Kassaï, en face de la paroisse Sainte Anne — 7e arrondissement, Bangui",
+    "hoursTitle": "Ouvert",
+    "hoursLine": "24h/24, 7j/7",
+    "imgAlt": "Gilmar Résidence",
+    "statBadge": "Haut standing"
+  },
+  "amenities": {
+    "badge": "Nos atouts",
+    "title": "Tout pour un séjour serein",
+    "items": [
+      {
+        "title": "Petit-déjeuner offert",
+        "desc": "Pour chaque appartement réservé, votre premier petit-déjeuner est offert. Commencez la journée en douceur."
+      },
+      {
+        "title": "Sécurité 24h/24",
+        "desc": "Résidence fermée, poste de garde et surveillance permanente pour un séjour en toute tranquillité."
+      },
+      {
+        "title": "Climatisation",
+        "desc": "Chambres et salons climatisés pour un confort optimal, quelle que soit la saison."
+      },
+      {
+        "title": "Cuisine équipée",
+        "desc": "Kitchenette avec plan de travail, cafetière et rangements, pour vivre comme chez vous."
+      },
+      {
+        "title": "Parking sécurisé",
+        "desc": "Un grand parking pavé à l'intérieur de l'enceinte de la résidence."
+      },
+      {
+        "title": "Emplacement idéal",
+        "desc": "À Kassaï, face à la paroisse Sainte Anne : un point de départ idéal pour tous vos déplacements."
+      }
+    ]
+  },
+  "apartments": {
+    "badge": "Hébergement",
+    "title": "Nos appartements & chambres",
+    "subtitle": "Des espaces meublés et décorés avec soin, pour une nuit ou plusieurs mois.",
+    "seeAll": "Voir tous les logements",
+    "details": "Détails",
+    "book": "Réserver",
+    "perNight": "/ nuit",
+    "onRequest": "Sur demande",
+    "cards": [
+      {
+        "id": "e4",
+        "name": "Appartement E4",
+        "price": "40 000",
+        "badge": "Coup de cœur",
+        "size": "Chambre + salon + coin repas",
+        "capacity": "1 à 2 personnes",
+        "bed": "Grand lit double",
+        "desc": "Notre appartement signature : une chambre climatisée, un salon cosy, une table à manger et une kitchenette équipée. Le premier petit-déjeuner est offert.",
+        "features": [
+          "Climatisation",
+          "Salon séparé",
+          "Coin repas",
+          "Kitchenette équipée",
+          "Cafetière",
+          "Petit-déjeuner offert"
+        ]
+      },
+      {
+        "id": "suite",
+        "name": "Appartement Salon",
+        "price": "",
+        "badge": "Spacieux",
+        "size": "Chambre + grand salon",
+        "capacity": "2 personnes",
+        "bed": "Grand lit double",
+        "desc": "Un grand salon lumineux avec canapé d'angle, télévision murale et plafond décoré, ouvert sur une chambre confortable.",
+        "features": [
+          "Climatisation",
+          "Grand salon",
+          "TV écran plat",
+          "Réfrigérateur",
+          "Carrelage"
+        ]
+      },
+      {
+        "id": "confort",
+        "name": "Chambre Confort",
+        "price": "",
+        "badge": "Classique",
+        "size": "Chambre",
+        "capacity": "1 à 2 personnes",
+        "bed": "Lit double",
+        "desc": "Une chambre élégante aux tons chauds : tête de lit en bois, appliques murales, linge blanc soigné et table de chevet.",
+        "features": [
+          "Climatisation",
+          "Linge de maison",
+          "Appliques murales",
+          "Table de chevet"
+        ]
+      },
+      {
+        "id": "ambiance",
+        "name": "Chambre Ambiance",
+        "price": "",
+        "badge": "Douce",
+        "size": "Chambre",
+        "capacity": "1 à 2 personnes",
+        "bed": "Lit double",
+        "desc": "Murs bleu azur, éclairage tamisé et rideaux soyeux : une atmosphère apaisante pour bien se reposer.",
+        "features": [
+          "Climatisation",
+          "Éclairage d'ambiance",
+          "Linge de maison",
+          "Rangements"
+        ]
+      }
+    ]
+  },
+  "page": {
+    "title": "Appartements & chambres",
+    "subtitle": "Choisissez l'espace qui vous ressemble",
+    "galleryTitle": "La résidence en images",
+    "filters": {
+      "all": "Tout",
+      "rooms": "Chambres",
+      "living": "Salons & repas",
+      "restaurant": "Restaurant & terrasse",
+      "outside": "Extérieurs"
+    }
+  },
+  "restaurant": {
+    "badge": "Restaurant & Bar",
+    "title": "Savourer, se retrouver, se détendre",
+    "desc": "Notre restaurant-bar vous accueille dans un décor de bois chaud et de lustres en cristal. Prolongez le moment sur la terrasse couverte ou dans le jardin, à l'ombre des parasols.",
+    "points": [
+      "Bar & comptoir",
+      "Salle intérieure climatisée",
+      "Terrasse couverte",
+      "Jardin extérieur"
+    ],
+    "cta": "Réserver une table",
+    "waMessage": "Bonjour, je souhaite réserver une table au restaurant Gilmar."
+  },
+  "gym": {
+    "badge": "Salle de sport",
+    "title": "Le sport, meilleur allié de votre santé mentale",
+    "desc": "Le sport ne fait pas du bien qu'au corps. Venez vous inscrire à la salle de sport Gilmar, sur place, en face de la paroisse Sainte Anne de Kassaï.",
+    "daily": "Journalier",
+    "monthly": "Mensuel",
+    "dailyPrice": "2 000",
+    "monthlyPrice": "20 000",
+    "cta": "S'inscrire",
+    "waMessage": "Bonjour, je souhaite m'inscrire à la salle de sport Gilmar."
+  },
+  "group": {
+    "badge": "Société Gilmar",
+    "title": "Un groupe, de nombreux services",
+    "subtitle": "La Gilmar Résidence est portée par la Société Gilbert & Marie (SGM) SARL, active à Bangui dans plusieurs secteurs.",
+    "items": [
+      {
+        "title": "Hôtellerie & Restauration",
+        "desc": "Résidence meublée haut standing, restaurant-bar et terrasse."
+      },
+      {
+        "title": "Location de véhicules",
+        "desc": "Des véhicules disponibles à la location pour vos déplacements à Bangui et au-delà."
+      },
+      {
+        "title": "Agropastorale",
+        "desc": "Production agricole et élevage."
+      },
+      {
+        "title": "Bâtiment & Travaux Publics",
+        "desc": "Construction et réalisation de travaux."
+      },
+      {
+        "title": "Import / Export",
+        "desc": "Échanges commerciaux et approvisionnement."
+      },
+      {
+        "title": "Commerce général",
+        "desc": "Distribution et vente de biens divers."
+      },
+      {
+        "title": "Prestation de service",
+        "desc": "Accompagnement et services sur mesure."
+      }
+    ]
+  },
+  "contact": {
+    "badge": "Contact",
+    "title": "Réservez votre séjour",
+    "subtitle": "Une question, une réservation ? Notre équipe vous répond rapidement par téléphone ou sur WhatsApp.",
+    "phone": "Téléphone & WhatsApp",
+    "address": "Adresse",
+    "email": "E-mail",
+    "hours": "Horaires",
+    "hoursValue": "Toujours ouvert",
+    "map": "Voir sur la carte",
+    "formTitle": "Demande de réservation",
+    "formName": "Nom complet",
+    "formPhone": "Téléphone",
+    "formApartment": "Logement",
+    "formAny": "Peu importe",
+    "formArrival": "Arrivée",
+    "formDeparture": "Départ",
+    "formGuests": "Personnes",
+    "formMessage": "Message",
+    "formPlaceholderName": "Votre nom",
+    "formPlaceholderPhone": "+236 …",
+    "formPlaceholderMessage": "Précisez vos besoins (durée du séjour, véhicule, etc.)",
+    "formSubmit": "Envoyer sur WhatsApp",
+    "formHint": "Votre demande s'ouvre dans WhatsApp, prête à être envoyée à la réception.",
+    "waGreeting": "Bonjour Gilmar Résidence, je souhaite faire une demande de réservation.",
+    "waName": "Nom",
+    "waPhone": "Téléphone",
+    "waApartment": "Logement",
+    "waArrival": "Arrivée",
+    "waDeparture": "Départ",
+    "waGuests": "Personnes",
+    "waMessage": "Message"
+  },
+  "booking": {
+    "title": "Réserver à la Gilmar Résidence",
+    "subtitle": "Remplissez ces quelques champs : la demande s'ouvre dans WhatsApp.",
+    "offer": "Votre premier petit-déjeuner est offert !",
+    "call": "Ou appelez-nous",
+    "close": "Fermer"
+  },
+  "footer": {
+    "description": "Appartements meublés haut standing, restaurant-bar et salle de sport à Kassaï, Bangui. Une adresse de la Société Gilmar.",
+    "quickLinks": "Liens rapides",
+    "contact": "Contact",
+    "followUs": "Suivez-nous",
+    "rights": "Tous droits réservés.",
+    "whatsappTooltip": "Écrivez-nous sur WhatsApp",
+    "country": "Bangui, République centrafricaine"
+  },
+  "vehicles": {
+    "badge": "Location de véhicules",
+    "title": "Un véhicule pour chaque déplacement",
+    "desc": "La Société Gilmar met à votre disposition des véhicules tout-terrain et berlines, garés en sécurité dans l'enceinte de la résidence. Idéal pour vos rendez-vous à Bangui comme pour vos trajets en province.",
+    "cta": "Demander un véhicule",
+    "waMessage": "Bonjour Société Gilmar, je souhaite louer un véhicule."
+  }
+}

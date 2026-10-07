@@ -1,0 +1,294 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "The Residence",
+    "apartments": "Apartments",
+    "restaurant": "Restaurant",
+    "gym": "Gym",
+    "contact": "Contact",
+    "book": "Book",
+    "vehicles": "Vehicles"
+  },
+  "hero": {
+    "slides": [
+      {
+        "badge": "Bangui · Kassaï · 7th district",
+        "title": "Gilmar",
+        "titleAccent": "Residence",
+        "subtitle": "High-end furnished apartments, designed for total comfort and refinement."
+      },
+      {
+        "badge": "Restaurant & Bar",
+        "title": "A warm",
+        "titleAccent": "table",
+        "subtitle": "Warm wood, crystal chandeliers and a shaded terrace, right inside the residence."
+      },
+      {
+        "badge": "Special offer",
+        "title": "Breakfast",
+        "titleAccent": "on us",
+        "subtitle": "For every apartment booked, Gilmar offers your first breakfast."
+      },
+      {
+        "badge": "24/7 security",
+        "title": "Your haven",
+        "titleAccent": "of peace",
+        "subtitle": "A gated, guarded residence with parking, facing Sainte Anne parish."
+      }
+    ],
+    "ctaDiscover": "Discover the apartments",
+    "arrival": "Check-in",
+    "departure": "Check-out",
+    "guests": "Guests",
+    "check": "Check availability"
+  },
+  "about": {
+    "badge": "Welcome",
+    "title": "A true haven of peace in the heart of Bangui",
+    "p1": "Welcome to <strong>Gilmar Residence</strong>, a high-end furnished residence for guests looking for total comfort and refinement in Bangui.",
+    "p2": "Our fully equipped apartments welcome you for short or long stays: air-conditioned bedroom, living room, dining area and kitchenette, in a calm and secure setting.",
+    "p3": "On site, enjoy our restaurant-bar, its terrace and our gym. An address designed so you never go without.",
+    "addressTitle": "Our address",
+    "addressLine": "Camp Kassaï, facing Sainte Anne parish — 7th district, Bangui",
+    "hoursTitle": "Open",
+    "hoursLine": "24/7",
+    "imgAlt": "Gilmar Residence",
+    "statBadge": "High standard"
+  },
+  "amenities": {
+    "badge": "Highlights",
+    "title": "Everything for a peaceful stay",
+    "items": [
+      {
+        "title": "Complimentary breakfast",
+        "desc": "For every apartment booked, your first breakfast is on us. Start the day gently."
+      },
+      {
+        "title": "24/7 security",
+        "desc": "Gated residence, guard post and round-the-clock surveillance for a worry-free stay."
+      },
+      {
+        "title": "Air conditioning",
+        "desc": "Air-conditioned bedrooms and living rooms for optimal comfort in any season."
+      },
+      {
+        "title": "Equipped kitchen",
+        "desc": "Kitchenette with worktop, coffee maker and storage, so you can live as at home."
+      },
+      {
+        "title": "Secure parking",
+        "desc": "A large paved car park inside the residence grounds."
+      },
+      {
+        "title": "Ideal location",
+        "desc": "In Kassaï, facing Sainte Anne parish: an ideal starting point for getting around."
+      }
+    ]
+  },
+  "apartments": {
+    "badge": "Accommodation",
+    "title": "Our apartments & rooms",
+    "subtitle": "Carefully furnished and decorated spaces, for one night or several months.",
+    "seeAll": "See all accommodation",
+    "details": "Details",
+    "book": "Book",
+    "perNight": "/ night",
+    "onRequest": "Upon request",
+    "cards": [
+      {
+        "id": "e4",
+        "name": "Apartment E4",
+        "price": "40,000",
+        "badge": "Favourite",
+        "size": "Bedroom + living + dining",
+        "capacity": "1 to 2 guests",
+        "bed": "Large double bed",
+        "desc": "Our signature apartment: an air-conditioned bedroom, a cosy living room, a dining table and an equipped kitchenette. First breakfast included.",
+        "features": [
+          "Air conditioning",
+          "Separate living room",
+          "Dining area",
+          "Equipped kitchenette",
+          "Coffee maker",
+          "Complimentary breakfast"
+        ]
+      },
+      {
+        "id": "suite",
+        "name": "Living-room Apartment",
+        "price": "",
+        "badge": "Spacious",
+        "size": "Bedroom + large living room",
+        "capacity": "2 guests",
+        "bed": "Large double bed",
+        "desc": "A large bright living room with corner sofa, wall-mounted TV and decorated ceiling, opening onto a comfortable bedroom.",
+        "features": [
+          "Air conditioning",
+          "Large living room",
+          "Flat-screen TV",
+          "Fridge",
+          "Tiled floors"
+        ]
+      },
+      {
+        "id": "confort",
+        "name": "Comfort Room",
+        "price": "",
+        "badge": "Classic",
+        "size": "Bedroom",
+        "capacity": "1 to 2 guests",
+        "bed": "Double bed",
+        "desc": "An elegant warm-toned room: wooden headboard, wall lamps, crisp white linen and bedside table.",
+        "features": [
+          "Air conditioning",
+          "Bed linen",
+          "Wall lamps",
+          "Bedside table"
+        ]
+      },
+      {
+        "id": "ambiance",
+        "name": "Ambiance Room",
+        "price": "",
+        "badge": "Soothing",
+        "size": "Bedroom",
+        "capacity": "1 to 2 guests",
+        "bed": "Double bed",
+        "desc": "Azure-blue walls, soft lighting and silky curtains: a calming atmosphere for a good rest.",
+        "features": [
+          "Air conditioning",
+          "Mood lighting",
+          "Bed linen",
+          "Storage"
+        ]
+      }
+    ]
+  },
+  "page": {
+    "title": "Apartments & rooms",
+    "subtitle": "Choose the space that suits you",
+    "galleryTitle": "The residence in pictures",
+    "filters": {
+      "all": "All",
+      "rooms": "Bedrooms",
+      "living": "Living & dining",
+      "restaurant": "Restaurant & terrace",
+      "outside": "Outdoors"
+    }
+  },
+  "restaurant": {
+    "badge": "Restaurant & Bar",
+    "title": "Savour, meet, unwind",
+    "desc": "Our restaurant-bar welcomes you amid warm wood and crystal chandeliers. Linger on the covered terrace or in the garden, in the shade of the parasols.",
+    "points": [
+      "Bar & counter",
+      "Air-conditioned dining room",
+      "Covered terrace",
+      "Outdoor garden"
+    ],
+    "cta": "Book a table",
+    "waMessage": "Hello, I would like to book a table at the Gilmar restaurant."
+  },
+  "gym": {
+    "badge": "Gym",
+    "title": "Exercise, your mind's best ally",
+    "desc": "Exercise isn't only good for the body. Come and sign up at the Gilmar gym, on site, facing Sainte Anne parish in Kassaï.",
+    "daily": "Daily",
+    "monthly": "Monthly",
+    "dailyPrice": "2,000",
+    "monthlyPrice": "20,000",
+    "cta": "Sign up",
+    "waMessage": "Hello, I would like to sign up for the Gilmar gym."
+  },
+  "group": {
+    "badge": "Société Gilmar",
+    "title": "One group, many services",
+    "subtitle": "Gilmar Residence is run by Société Gilbert & Marie (SGM) SARL, active in Bangui across several sectors.",
+    "items": [
+      {
+        "title": "Hospitality & Catering",
+        "desc": "High-end furnished residence, restaurant-bar and terrace."
+      },
+      {
+        "title": "Vehicle rental",
+        "desc": "Vehicles available for hire for your trips in Bangui and beyond."
+      },
+      {
+        "title": "Agro-pastoral",
+        "desc": "Farming and livestock."
+      },
+      {
+        "title": "Building & Public Works",
+        "desc": "Construction and works."
+      },
+      {
+        "title": "Import / Export",
+        "desc": "Trade and supply."
+      },
+      {
+        "title": "General trade",
+        "desc": "Distribution and sale of various goods."
+      },
+      {
+        "title": "Services",
+        "desc": "Tailored support and services."
+      }
+    ]
+  },
+  "contact": {
+    "badge": "Contact",
+    "title": "Book your stay",
+    "subtitle": "A question or a booking? Our team answers quickly by phone or WhatsApp.",
+    "phone": "Phone & WhatsApp",
+    "address": "Address",
+    "email": "Email",
+    "hours": "Opening hours",
+    "hoursValue": "Always open",
+    "map": "View on map",
+    "formTitle": "Booking request",
+    "formName": "Full name",
+    "formPhone": "Phone",
+    "formApartment": "Accommodation",
+    "formAny": "No preference",
+    "formArrival": "Check-in",
+    "formDeparture": "Check-out",
+    "formGuests": "Guests",
+    "formMessage": "Message",
+    "formPlaceholderName": "Your name",
+    "formPlaceholderPhone": "+236 …",
+    "formPlaceholderMessage": "Tell us what you need (length of stay, vehicle, etc.)",
+    "formSubmit": "Send via WhatsApp",
+    "formHint": "Your request opens in WhatsApp, ready to send to reception.",
+    "waGreeting": "Hello Gilmar Residence, I would like to make a booking request.",
+    "waName": "Name",
+    "waPhone": "Phone",
+    "waApartment": "Accommodation",
+    "waArrival": "Check-in",
+    "waDeparture": "Check-out",
+    "waGuests": "Guests",
+    "waMessage": "Message"
+  },
+  "booking": {
+    "title": "Book at Gilmar Residence",
+    "subtitle": "Fill in a few fields: the request opens in WhatsApp.",
+    "offer": "Your first breakfast is on us!",
+    "call": "Or call us",
+    "close": "Close"
+  },
+  "footer": {
+    "description": "High-end furnished apartments, restaurant-bar and gym in Kassaï, Bangui. A Société Gilmar address.",
+    "quickLinks": "Quick links",
+    "contact": "Contact",
+    "followUs": "Follow us",
+    "rights": "All rights reserved.",
+    "whatsappTooltip": "Message us on WhatsApp",
+    "country": "Bangui, Central African Republic"
+  },
+  "vehicles": {
+    "badge": "Vehicle rental",
+    "title": "A vehicle for every journey",
+    "desc": "Société Gilmar offers 4x4s and saloon cars, parked securely inside the residence grounds. Ideal for meetings in Bangui as well as trips upcountry.",
+    "cta": "Request a vehicle",
+    "waMessage": "Hello Société Gilmar, I would like to rent a vehicle."
+  }
+}
