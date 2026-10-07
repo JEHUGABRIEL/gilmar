@@ -169,12 +169,15 @@
     "subtitle": "Choisissez l'espace qui vous ressemble",
     "galleryTitle": "La résidence en images",
     "filters": {
-      "all": "Tout",
       "rooms": "Chambres",
       "living": "Salons & repas",
       "restaurant": "Restaurant & terrasse",
       "outside": "Extérieurs"
-    }
+    },
+    "showMore": "Voir plus de photos",
+    "showLess": "Afficher moins",
+    "photos": "photos",
+    "gallerySubtitle": "Choisissez un espace pour parcourir ses photos."
   },
   "restaurant": {
     "badge": "Restaurant & Bar",

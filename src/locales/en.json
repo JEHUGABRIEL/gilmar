@@ -169,12 +169,15 @@
     "subtitle": "Choose the space that suits you",
     "galleryTitle": "The residence in pictures",
     "filters": {
-      "all": "All",
       "rooms": "Bedrooms",
       "living": "Living & dining",
       "restaurant": "Restaurant & terrace",
       "outside": "Outdoors"
-    }
+    },
+    "showMore": "Show more photos",
+    "showLess": "Show less",
+    "photos": "photos",
+    "gallerySubtitle": "Pick a space to browse its photos."
   },
   "restaurant": {
     "badge": "Restaurant & Bar",
